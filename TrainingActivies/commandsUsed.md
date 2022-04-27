@@ -1,4 +1,4 @@
-cd /t
+cd n/
 ls /n
 git clone /n
 mkdir /n
